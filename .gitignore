@@ -1,0 +1,9 @@
+.vscode
+.env.dev
+.env.prod
+.env.test
+node_modules
+.idea
+yarn-erro.log
+
+tmp
